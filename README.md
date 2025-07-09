@@ -15,9 +15,14 @@ Model KNN terbaik kemudian di-*deploy* menjadi sebuah aplikasi web interaktif me
 
 Aplikasi web memungkinkan pengguna untuk memasukkan data pengeluaran pelanggan dan secara instan mendapatkan prediksi channel beserta tingkat kepercayaan model.
 
-> *Catatan: Ganti gambar di bawah dengan screenshot atau GIF demo aplikasi Anda sendiri.*
+![image](https://github.com/user-attachments/assets/1a65d0ec-49f5-4bdb-809a-610296b5417b)
 
-![Demo Aplikasi](demo_screenshot.png)
+
+Untuk akses model Demo Aplikasi via streamlit, [klik di sini](https://tubesai-1m2w.streamlit.app/).
+
+Untuk melihat notebook Google Collab, [klik di sini](https://colab.research.google.com/drive/1ZdlRst4U93F3J40xqhkr6iE1ujOnA7DZ?usp=sharing).
+
+
 
 ---
 
