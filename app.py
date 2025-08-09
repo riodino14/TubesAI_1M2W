@@ -1,3 +1,9 @@
+st.markdown("""
+<meta property="og:title" content="Prediksi Channel Pelanggan (KNN)">
+<meta property="og:description" content="Aplikasi machine learning untuk memprediksi channel pelanggan grosir menggunakan KNN.">
+<meta property="og:image" content="https://raw.githubusercontent.com/username/repo/main/screenshot.png">
+""", unsafe_allow_html=True)
+
 import streamlit as st
 import pandas as pd
 import numpy as np
